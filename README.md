@@ -1,9 +1,9 @@
 # The Modern React Bootcamp (Hooks, Context, NextJS, Router)
 ## *by Colt Steele*
 
-I am taking this course to further my knowledge with React.\
+I am taking this course to further my knowledge with React.  
 
-Previsouly, I completed a shorter React course by Angela Yu, which was a great intro and was solely based on Functional components.\
+Previsouly, I completed a shorter React course by Angela Yu, which was a great intro and was solely based on Functional components.  
 
 This course is more in-depth and also includes Class components, which some code bases still rely on.
 
