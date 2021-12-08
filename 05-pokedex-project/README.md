@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/tom-costa/REACT-Bootcamp-Lessons/blob/main/05-pokedex-project/pokedex_screenshot.png" alt="Pokedex Project"/>
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
