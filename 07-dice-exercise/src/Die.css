@@ -1,0 +1,19 @@
+
+.Die {
+    color:rgb(219, 72, 91);
+    font-size:12em;
+    padding:1.5rem;
+}
+
+.rotating {
+    animation-name: rotating;
+    animation-duration: 1s;
+}
+
+
+@keyframes rotating {
+	100% {
+		-webkit-transform: rotate(360deg);
+		transform: rotate(360deg);
+	}
+}
