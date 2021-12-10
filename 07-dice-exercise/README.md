@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/tom-costa/REACT-Bootcamp-Lessons/blob/main/07-dice-exercise/dice.png" alt="Dice Project"/>
+</p>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
