@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://github.com/tom-costa/REACT-Bootcamp-Lessons/blob/main/08-react-state-patterns/Lottery_State.png" alt="Coin Flipper"/>
+</p>
+<p align="center">
+  <img src="https://github.com/tom-costa/REACT-Bootcamp-Lessons/blob/main/08-react-state-patterns/Lottery_State.png" alt="Random Colors"/>
+</p>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
