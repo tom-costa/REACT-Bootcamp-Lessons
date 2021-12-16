@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/tom-costa/REACT-Bootcamp-Lessons/blob/main/08-react-state-patterns/Lottery_State.png" alt="Coin Flipper"/>
+  <img src="https://github.com/tom-costa/REACT-Bootcamp-Lessons/blob/main/09-state-exercises/coin_flipper.png" alt="Coin Flipper"/>
 </p>
 <p align="center">
-  <img src="https://github.com/tom-costa/REACT-Bootcamp-Lessons/blob/main/08-react-state-patterns/Lottery_State.png" alt="Random Colors"/>
+  <img src="https://github.com/tom-costa/REACT-Bootcamp-Lessons/blob/main/09-state-exercises/random_colors.png" alt="Random Colors"/>
 </p>
 
 
