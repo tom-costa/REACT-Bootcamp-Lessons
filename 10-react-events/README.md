@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="https://github.com/tom-costa/REACT-Bootcamp-Lessons/blob/main/10-react-events/src/react-events.png" alt="React Events"/>
+</p>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
