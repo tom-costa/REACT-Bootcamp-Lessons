@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import NumberItem from './NumberItem'
+import './NumberList.css'
 
 class NumberList extends Component {
     constructor(props) {
@@ -17,13 +18,13 @@ class NumberList extends Component {
 
   render() {
       let nums = this.state.nums.map( n => (
-          <NumberItem key={n}value={n} remove={this.remove}/>
+          <NumberItem key={n} value={n} remove={this.remove}/>
 
       ))
     return (
       <div>
         <h1>First Number List</h1>
-        <ul>{nums}</ul>
+        <ul className="NumberList">{nums}</ul>
       </div>
     );
   }

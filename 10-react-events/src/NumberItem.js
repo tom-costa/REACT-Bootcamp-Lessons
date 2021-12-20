@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+
 class NumberItem extends Component {
   constructor(props){
     super(props)
@@ -16,7 +17,7 @@ class NumberItem extends Component {
     return (
       <li>
       {this.props.value}
-          <button onClick={this.handleRemove}> Close </button>
+          <button className="NumberItem" onClick={this.handleRemove}> Close </button>
       </li>
     );
   }
