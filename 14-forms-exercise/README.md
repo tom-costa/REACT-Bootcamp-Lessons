@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/tom-costa/REACT-Bootcamp-Lessons/blob/main/14-forms-exercise/BoxCreator.png" alt="Box Creator Exercise"/>
+</p>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
